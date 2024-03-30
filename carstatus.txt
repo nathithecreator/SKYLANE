@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+
+<meta charset = "UTF-8">
+<title> Contact Us</title>
+<link rel ="stylesheet" href="styleContactUs.css">
+</head>
+<body>
+<div class = "box-area">
+<header>
+<div class ="wrapper">
+<div class ="logo">
+<a href="Home.html">SKYY LANE</a>
+</div>
+<nav>
+<a href="Home.html">HOME</a>
+<a href="AboutUS.html">ABOUT US</a>
+<a href="Register.html">REGISTER</a>
+<a href="LoginPage.html">SIGN IN</a>
+
+
+
+</nav>
+</div>
+</header>
+
+
+<div class ="banner-area">
+<h2>Contact Us</h2>
+
+</div>
+<div class ="content-area">
+<img src="images/117.png" alt="Paris" class="centerImage" width="1920" height="1020" >
+<div class ="wrapper">
+
+
+
+
+<h1 style="text-align: center;"><strong>LOCATION:</strong></h1>
+
+
+
+<hr />
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1425.7288420703524!2d28.244577031398183!3d-25.783387595515297!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95611993f19357%3A0xab92cd189609bd26!2sMavrakis%20Concepts!5e0!3m2!1sen!2sza!4v1663663803630!5m2!1sen!2sza" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+<p><span style="font-size:48px">Our fleet management systems have the following advantages:</span></p>
+
+<ul style="list-style-type:none;">
+	<li><span style="font-size:36px">Real time&nbsp;<strong>fleet visibility</strong>, 24/7</span></li>
+	<li><span style="font-size:36px">Increase&nbsp;<strong>driver</strong>&nbsp;&amp;&nbsp;<strong>asset</strong> safety&nbsp;on the road</span></li>
+	<li><span style="font-size:36px">Lower<strong> fleet risk</strong></span></li>
+	<li><span style="font-size:36px">Improve&nbsp;<strong>driver behaviour</strong></span></li>
+	<li><span style="font-size:36px">Control the <strong>cost</strong> of <strong>fuel </strong>and <strong>maintenance</strong></span></li>
+	<li><span style="font-size:36px">Access to Automated data analysis and <strong>reports</strong></span></li>
+	<li><span style="font-size:36px">Increase&nbsp;<strong>customer retention&nbsp;</strong></span></li>
+	<li><span style="font-size:36px">Ensure&nbsp;<strong>driver compliance</strong></span></li>
+</ul>
+</ul>
+
+
+<p><span style="color:#ffcc66"><span style="font-size:72px"><span style="font-family:Times New Roman,Times,serif">Our Passion Is Helping You</span></span></span></p>
+<img src="images/100.jpg" alt="Paris" class="center" width="448" height="672">
+<p style="text-align: center;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:31.0pt"><span style="line-height:107%">Our strategy is to create a profitable, cash generative business by expanding our recurring revenue model through our nationwide distribution network.</span></span></span></span></span></p>
+
+<hr />
+
+
+<footer class = "footer">
+  <div class = "inner-footer">
+
+
+<div class = "outer-footer">
+Copyright &copy; NathiTheCreator Coding Pro. All Rights Reserved
+</div>
+</footer>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
+
+
+
+
